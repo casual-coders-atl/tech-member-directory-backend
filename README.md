@@ -1,1 +1,1 @@
-# tech-member-directory-backend
+# Tech Member Directory - Backend
